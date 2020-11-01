@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "room-lo"
+    }
+  },
+  "defaultProject": "room-lo",
+  "cli": {
+    "analytics": "54c0ccf9-4504-4599-9f41-becc55ad25b9"
+  }
 }
